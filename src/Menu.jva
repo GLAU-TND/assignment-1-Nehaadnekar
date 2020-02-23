@@ -1,0 +1,21 @@
+class Menu
+{   
+    public addCon()
+    {
+    
+    
+    }
+    
+    public showCon()
+    {
+ 
+ 
+    }
+
+
+    public int exit()
+    {
+       System.out.println("Thankyou, visit again!");
+       return 0;
+     }  
+}
