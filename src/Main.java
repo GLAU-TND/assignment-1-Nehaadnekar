@@ -14,7 +14,7 @@ public class Main
         System.out.println("Press 5 to exit program ");
         Scanner sc=new Scanner(System.in);
 	int num=sc.nextInt();
-	Contacts obj=new Contacts();
+	Contact obj=new Contact();
 	if(n==1)
 	{
    		 obj.addcontact();
