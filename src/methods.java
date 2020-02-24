@@ -1,9 +1,9 @@
 package adt;
 public interface detailOfFunction
 {
-    public  void add();
-    public void view();
-    public void search();
-    public void delete();
+    public  void addCon();
+    public void viewCon();
+    public void searchCon();
+    public void deleteCon();
     public void exit();
 }
