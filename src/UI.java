@@ -3,7 +3,7 @@ import java.util.InputMismatchException;
 import java.util.Scanner;
 
 
-public class users {
+public class Users {
     public void contactList() {
 
         try {
