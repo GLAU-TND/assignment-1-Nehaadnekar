@@ -17,7 +17,7 @@ public class Main
 	Contact obj=new Contact();
 	if(n==1)
 	{
-   		 obj.addcontact();
+   		 obj.addContact();
 	}
 	else if(n==2)
 	{
